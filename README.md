@@ -27,8 +27,7 @@ SelfPruningNN/
 ├── utils.py               
 ├── requirements.txt      
 ├── README.md             
-├── gate_distribution.png  
-├── data/         
+├── gate_distribution.png          
 ```
 ## File Descriptions
 
